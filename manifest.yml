@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: nodejs-ebas
+  host: nodejs-ebas
+  disk_quota: 1024M
